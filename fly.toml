@@ -1,0 +1,8 @@
+app = "heavenly-bot-Izana294824949202308"
+[env]
+  TELEGRAM_TOKEN = ""
+  BRAWL_API_KEY = ""
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 256
