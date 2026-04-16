@@ -12,8 +12,8 @@ from telegram.ext import (
 )
 
 # ---------------------------- НАСТРОЙКИ ----------------------------
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-BS_API_KEY = os.getenv("BS_API_KEY")
+BOT_TOKEN = "8637784218:AAF6NQt-HMIOaxJnh42ISkuMkqdJgFGy6P0"
+BS_API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6ImZhZmM3OWI4LTU0YWUtNDhlZi05MjdkLWRkMDliZGU3MDNiZSIsImlhdCI6MTc3NjM0OTM2NSwic3ViIjoiZGV2ZWxvcGVyLzIyODI2ZDRhLTdmNjMtNzI1NC00ZTVjLTg5NDg4YzM4ZGYyMiIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiNDUuNzkuMjE4Ljc5Il0sInR5cGUiOiJjbGllbnQifV19.0fN60l8E86kBGEGhpdwAf1CzWaSUX-ty_1mpFgVUkV-BvKb-t_5J9wZjlTzwFEGRwvXfOW5lW6dWZY9-bRc_dw"
 BS_API_URL = "https://bsproxy.royaleapi.dev/v1/clubs/%23"
 
 ALLOWED_UPDATERS = {"@IzanaKurokawa0", "@Sakvoiz"}
